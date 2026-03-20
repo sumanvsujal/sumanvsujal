@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **sumanvsujal/sumanvsujal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Sujal Suman</h1>
+-->
+<h1 align="center">Hi 👋, I'm Sujal Suman</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India.</h3>
 
 - 📫 How to reach me **hello.sujalsuman@gmail.com**
